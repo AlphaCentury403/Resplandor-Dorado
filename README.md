@@ -16,6 +16,7 @@ Este Bot es simple, solo cuenta con 4 comandos
    en caso contrario habras perdido
 
 2. Cosas a añadir al bot
+   
    Mas Modos de apuesta
    Mas Monedas de apuesta
    Mas comandos
