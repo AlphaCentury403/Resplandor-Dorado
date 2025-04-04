@@ -1,4 +1,4 @@
-# Resplandor-Dorado
+# Resplandor Dorado
 Un bot simple de apuestas ficticias para discord, programado en nextcord
 
 1. Funcionamiento
